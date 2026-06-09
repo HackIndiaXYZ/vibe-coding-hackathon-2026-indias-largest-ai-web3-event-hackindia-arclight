@@ -195,6 +195,4 @@ This project is private. All rights reserved.
 
 ---
 
-<div align="center">
-  <p>Built with ❤️ by <a href="https://github.com/Rishabhv16">Rishabh</a></p>
-</div>
+
